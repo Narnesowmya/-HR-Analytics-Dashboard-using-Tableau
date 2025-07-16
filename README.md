@@ -49,4 +49,5 @@ The goal is to assist HR professionals and stakeholders in understanding pattern
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview.
+https://github.com/Narnesowmya/-HR-Analytics-Dashboard-using-Tableau/blob/main/Screenshot%20(280).png
